@@ -14,7 +14,7 @@ class Api extends Component
     /**
      * @var string Protocol for the maps, default is http
      */
-    public static $protocol = 'http';
+    public static $protocol;
 
     /**
      * @var string Uri for the JS map API
