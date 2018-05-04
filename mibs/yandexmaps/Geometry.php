@@ -1,5 +1,5 @@
 <?php
-namespace katzz0\yandexmaps;
+namespace mibs\yandexmaps;
 
 use yii\base\Component;
 use yii\helpers\Json;

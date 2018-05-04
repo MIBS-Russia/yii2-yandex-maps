@@ -1,7 +1,7 @@
 <?php
-namespace katzz0\yandexmaps;
+namespace mibs\yandexmaps;
 
-use katzz0\yandexmaps\Interfaces;
+use mibs\yandexmaps\Interfaces;
 use yii\helpers\Json;
 
 /**
